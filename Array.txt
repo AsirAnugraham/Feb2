@@ -1,0 +1,49 @@
+1)What is an array?
+Java array is an object which contains elements of a similar data type. 
+*Additionally, The elements of an array are stored in a contiguous memory location. 
+*It is a data structure where we store similar elements. 
+*We can store only a fixed set of elements in a Java array.
+*Array in Java is index-based, the first element of the array is stored at the 0th index, 2nd element is stored on 1st index and so on.
+
+Advantages
+*code optimiztion and random access
+Disadvantages
+*Size Limit
+
+There are two types of array 
+*one dimensional array
+*two dimensional array
+
+One Dimesnsional array?
+ A One-Dimensional Array is the simplest form of an Array in which the elements are stored linearly and can be accessed individually by specifying the index value of each element stored in the array.
+
+Two Dimesnsional array?
+ In Java, 2D arrays are stored as arrays of arrays. 
+*Therefore, the way 2D arrays are declared is similar 1D array objects. 
+*2D arrays are declared by defining a data type followed by two sets of square brackets.
+
+
+
+
+
+
+
+
+Methods which are been used in spring ?
+Java String class provides a lot of methods to perform operations on strings such as 
+*compare(), 
+*concat(), 
+*equals(), 
+*split(), 
+*length(), 
+*replace(), 
+*compareTo(), 
+*intern(), 
+*substring().
+
+What is java String ?
+The Java String is immutable which means it cannot be changed. 
+*Whenever we change any string, a new instance is created. 
+*For mutable strings, you can use StringBuffer and StringBuilder classes.
+*string is an object that represents a sequence of characters.
+
